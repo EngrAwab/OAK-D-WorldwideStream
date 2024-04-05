@@ -45,4 +45,4 @@ Streamlit is a powerful tool for creating web pages with just a few clicks. Clon
 ```bash
 streamlit run app.py --server.port 8080
 ```
-Replace app.py with the name of the Python script you downloaded from this repository.Now Open the link that 
+Replace app.py with the name of the Python script that you downloaded from this repository.
