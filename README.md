@@ -45,4 +45,9 @@ Streamlit is a powerful tool for creating web pages with just a few clicks. Clon
 ```bash
 streamlit run app.py --server.port 8080
 ```
-Replace app.py with the name of the Python script that you downloaded from this repository.
+Replace app.py with the name of the Python script that you downloaded from this repository. Additionally, you can enhance the security of your webpage by enabling password protection.## Password Protection 
+To protect your webpage with a password, run the following command:
+```bash
+ngrok http 8000 --basic-auth 'username:password'
+```
+With this configuration, every time you access your webpage, you'll be prompted to enter the specified credentials before being able to view the content.
