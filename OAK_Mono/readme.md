@@ -1,6 +1,6 @@
 # OAK-D-WorldwideStream
 
-This file is compatible with all the OAK depth cameras including `OAK-D, OAK-D Lite etc., because all of the OAK depth cameras have the mono camera. Please note that it is not compatible with those OAK cameras which don't have `mono cameras`.
+This file is compatible with all the OAK depth cameras including `OAK-D, OAK-D Lite` etc., because all of the OAK depth cameras have the mono camera. Please note that it is not compatible with those OAK cameras which don't have `mono cameras`.
 
 
 To use this code, you need to clone this repository:
